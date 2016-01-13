@@ -1,0 +1,26 @@
+.container-fluid {
+      padding-top: 40px;
+      padding-bottom: 40px;
+      padding-left: 40px;
+      padding-right: 40px;
+    }
+
+    body {
+      font: 14px Montserrat, sans-serif;
+      line-height: 1.8;
+      color: #3d464d;
+    }
+
+    .navbar-brand {
+      margin-left: 40%;
+    }
+
+    .navbar-right {
+      margin-right: 10%;
+    }
+
+    .col-sm-4  img{
+      position: relative;
+      /*margin-left: 35%;
+      /*margin-top: 10%;*/
+   }
